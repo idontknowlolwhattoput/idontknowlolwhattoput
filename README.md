@@ -40,18 +40,25 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
+## 🚀 Hosting & Deployment  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ---
 ## 📌 Current Focus  
 
 - ⚡ Building **full-stack apps** with React + Express + PostgreSQL  
 - 💡 Strengthening fundamentals with a **senior-level approach**  
 - 🔬 Experimenting with **scheduling systems & API integrations**  
-
----
+- 🌐 Managing **domains via Namecheap** & hosting projects on **AWS, Vercel & GitHub Pages**  
 
 ## 📈 GitHub Stats  
 
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshvergara&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshvergara&layout=compact&theme=radical)  
 
 ---
