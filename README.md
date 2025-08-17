@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Josh
 
-![Banner](https://i.ibb.co/kHRKzXH/coding-banner.jpg) <!-- You can replace this with your own banner image -->
 
 💻 **Junior Web Developer** | 🚀 **Learning Full-Stack**
 
