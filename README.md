@@ -13,7 +13,8 @@
 - 🛠️ Working on **React + Express + PostgreSQL** projects  
 - ☁️ Exploring **AWS (EC2 + RDS)**  
 - 🔧 Hands-on with **MERN** for academic projects  
-- 📚 Always **learning, building, and experimenting**  
+- 📚 Always **learning, building, and experimenting**
+- ⚠️ Not currently active on GitHub 
 
 ---
 
