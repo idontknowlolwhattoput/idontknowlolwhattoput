@@ -2,7 +2,7 @@
 
 
 💻 **Junior Web Developer** | 🚀 **Learning Full-Stack**
-
+! Some of my projects aren't posted on my repositories
 ---
 
 ## 🌟 About Me  
