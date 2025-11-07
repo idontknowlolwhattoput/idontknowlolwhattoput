@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Josh
+# Hi, I'm Josh
 
 
-💻 **Junior Web Developer** | 🚀 **Learning Full-Stack**
+**Junior Web Developer** |  **Learning Full-Stack**
 
 ---
 
 
-## 🌟 About Me  
+## About Me  
 
-- 🎓 Currently a **Junior IT student**  
-- 💡 **1 year of experience** in web development  
-- 🛠️ Working on **React + Express + PostgreSQL** projects  
-- ☁️ Exploring **AWS (EC2 + RDS)**  
-- 🔧 Hands-on with **MERN** for academic projects  
-- 📚 Always **learning, building, and experimenting**
-- ⚠️ Not currently active on GitHub 
+-  Currently a **Junior IT student**  
+-  **1 year of experience** in web development  
+-  Working on **React + Express + PostgreSQL** projects  
+-  Exploring **AWS (EC2 + RDS)**  
+-  Hands-on with **MERN** for academic projects  
+-  Always **learning, building, and experimenting**
+-  Not currently active on GitHub 
 
 ---
 
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>  
 
-## 🚀 Hosting & Deployment  
+##  Hosting & Deployment  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white" />
@@ -60,24 +60,23 @@
 </p>
 
 ---
-## 📌 Current Focus  
+##  Current Focus  
 
-- ⚡ Building **full-stack apps** with React + Express + PostgreSQL  
-- 💡 Strengthening fundamentals with a **senior-level approach**  
-- 🔬 Experimenting with **scheduling systems & API integrations**  
-- 🌐 Managing **domains via Namecheap** & hosting projects on **AWS, Vercel & GitHub Pages**  
+-  Building **full-stack apps** with React + Express + PostgreSQL  
+-  Strengthening fundamentals with a **senior-level approach**  
+-  Experimenting with **scheduling systems & API integrations**  
+-  Managing **domains via Namecheap** & hosting projects on **AWS, Vercel & GitHub Pages**  
 
-## 📈 GitHub Stats  
+##  GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshvergara&layout=compact&theme=radical)  
 
 ---
 
-## 📫 Connect With Me  
+##  Connect With Me  
 
 - ✉️ Email: **vergarajoshuamiguel@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joshua-vergara-0b105130a)  
 
 ---
 
-✨ *“Code. Learn. Build. Repeat.”*  
