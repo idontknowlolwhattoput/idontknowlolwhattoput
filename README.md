@@ -14,7 +14,7 @@
 -  Exploring **AWS (EC2 + RDS)**  
 -  Hands-on with **MERN** for academic projects  
 -  Always **learning, building, and experimenting**
--  Not currently active on GitHub 
+-  Currently NOT active on GitHub
 
 ---
 
